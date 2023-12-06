@@ -24,6 +24,7 @@
 <br>
 <br>
 
+
 ### Tech Stack:
 
 <!-- language -->
@@ -33,6 +34,7 @@
 <br/>
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/myshuker/myshuker/blob/main/coding.gif" />
+
 
 ### Used Tools:
 
