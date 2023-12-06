@@ -12,7 +12,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://github.com/myshuker/myshuker/blob/main/git-header.svg?raw=true" />
 
-- 🌱 😎
+- 🌱 I’m currently learning TypeScript😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Make project and contribute to Open Source
 - 📫 How to reach me: myshuker@gmail.com;
@@ -31,7 +31,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=mysql,js,ts,html,css)]()
+[![](https://skillicons.dev/icons?i=mysql,js,html,css,nodejs,react)]()
 
 <br/>
 
