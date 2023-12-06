@@ -24,6 +24,8 @@
 <br>
 <br>
 
+<!-- coding boy -->
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/myshuker/myshuker/blob/main/coding.gif" />
 
 ### Tech Stack:
 
@@ -32,9 +34,6 @@
 [![](https://skillicons.dev/icons?i=mysql,js,ts,html,css)]()
 
 <br/>
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/myshuker/myshuker/blob/main/coding.gif" />
-
 
 ### Used Tools:
 
