@@ -15,7 +15,7 @@
 - 🌱 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Make project and contribute to Open Source
-- 📫 How to reach me: amlashi.sadra@gmail.com;
+- 📫 How to reach me: myshuker@gmail.com;
 - ⚡
 - 💼
 
