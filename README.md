@@ -28,15 +28,11 @@
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/myshuker/myshuker/blob/main/coding.gif" />
 
 ### Tech Stack:
-
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=mysql,js,html,css,nodejs,react)]()
 
-<br/>
-
 ### Used Tools:
-
 [![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode)]()
 
 <br />
