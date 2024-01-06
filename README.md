@@ -45,7 +45,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=myshuker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+<br />
   <img height="165em"  src="https://github-readme-streak-stats.herokuapp.com/?user=myshuker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
