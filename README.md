@@ -8,7 +8,7 @@
 ![alt text](https://github.com/myshuker/myshuker/blob/main/git-header.svg?raw=true)
  -->
 
-## What I'm focusing on 👨‍💻
+## About me 👨‍💻
 
 <img width="55%" align="right" alt="Github" src="https://github.com/myshuker/myshuker/blob/main/git-header.svg?raw=true" />
 
@@ -31,7 +31,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=mysql,js,html,css,nodejs,react)]()
+[![](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mysql)]()
 
 ### Used Tools:
 
