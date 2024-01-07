@@ -39,7 +39,7 @@
 
 <br />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=myshuker&layout=pie&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=myshuker&layout=pie" />
 
 ### Interests:
 
@@ -47,7 +47,7 @@
 
 <!-- ### My GitHub Stats: -->
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" /> <img height="165em"  src="https://github-readme-streak-stats.herokuapp.com/?user=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" /> <img height="165em"  src="https://github-readme-streak-stats.herokuapp.com/?user=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true"/>
 
 <br />
 
