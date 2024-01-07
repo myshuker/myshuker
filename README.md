@@ -49,13 +49,22 @@
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" /> <img height="165em"  src="https://github-readme-streak-stats.herokuapp.com/?user=myshuker&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical"/>
 
-<!--
-<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=myshuker&theme=radical" />
--->
 <br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=myshuker&show_icons=true)
+
+
+
+
+<img  src="https://wakatime.com/share/@018ce113-0919-4745-aff9-2d97f7b7afda/4c2abc65-2475-4bcf-be1c-cd5772cd7ff8.svg" height="400" />
+
+<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=myshuker&theme=radical" />
+
+
+
 -->
+
+<figure><embed src="https://wakatime.com/share/@018ce113-0919-4745-aff9-2d97f7b7afda/42504206-da99-4aae-b1b7-5769371867f8.svg"></embed></figure>
